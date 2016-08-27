@@ -1,0 +1,27 @@
+*vim-test.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                             *vim-test*
+
+    1. Intro ................................................. |vim-test-intro|
+    2. Requirements ................................... |vim-test-requirements|
+    3. Usage ................................................. |vim-test-usage|
+    4. Licence ............................................. |vim-test-licence|
+===============================================================================
+1. Intro                                                       *vim-test-intro*
+
+Overview of plugin
+
+2. Requirements                                         *vim-test-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                       *vim-test-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                   *vim-test-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
